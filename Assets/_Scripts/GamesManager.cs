@@ -36,7 +36,6 @@ public class GamesManager : MonoBehaviour {
             highScore = score;
             PlayerPrefs.SetInt("highScore", highScore);
         }
-        GameResult.instance.Show();
         Debug.Log("score: " + score);
         Debug.Log("high score: " + highScore);
         Time.timeScale = 0;

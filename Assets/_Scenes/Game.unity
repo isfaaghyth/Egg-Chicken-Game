@@ -470,7 +470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd82e3e907e714d39a6b0bcc95cf5efe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 50
   batasKiri: -3
   batasKanan: 3
 --- !u!212 &1987967020

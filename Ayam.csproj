@@ -246,7 +246,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Scripts\CharacterController.cs" />
-    <Compile Include="Assets\_Scripts\GameResult.cs" />
     <Compile Include="Assets\_Scripts\GamesManager.cs" />
     <Compile Include="Assets\_Scripts\ObjectObstacle.cs" />
     <Compile Include="Assets\_Scripts\ObjectSpawner.cs" />
